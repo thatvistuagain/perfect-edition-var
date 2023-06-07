@@ -1,33 +1,5 @@
 @charset "UTF-8";
 
-@font-face {
-  font-family: "Vollkorn";
-  font-weight: 400;
-  font-style: normal;
-  src: url("../font/Vollkorn-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Vollkorn";
-  font-weight: 400;
-  font-style: italic;
-  src: url("../font/Vollkorn-Italic.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Vollkorn";
-  font-weight: 500;
-  font-style: normal;
-  src: url("../font/Vollkorn-Semibold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Vollkorn";
-  font-weight: 500;
-  font-style: italic;
-  src: url("../font/Vollkorn-SemiboldItalic.woff2") format("woff2");
-}
-
 *, *:before, *:after {
   text-rendering: optimizelegibility;
   box-sizing: border-box;
@@ -47,8 +19,8 @@
 
 :root {
   --base-unit-half: calc( var(--base-unit) / 2.0 );
-  --body-text-font-stack: "Vollkorn", serif;
-  --heading-text-font-stack: "Vollkorn", serif;
+  --body-text-font-stack: 'IOS', 'Iowan Old Style', 'Palatino', 'Palatino Linotype', ui-serif, serif;
+  --heading-text-font-stack: 'IOS', 'Iowan Old Style', 'Palatino', 'Palatino Linotype', ui-serif, serif;
   --font-size: var(--base-unit-half);
   --line-height: 1.4rem;
   --print-line-height: 1.4rem;
@@ -83,7 +55,7 @@ html {
   scroll-behavior: smooth;
   overflow: hidden; /* This is the key, always */
   font-size: var(--font-size);
-  font-feature-settings: "kern", "liga", "ss11"; /* ss11 gives us the more normal 1 digit in Vollkorn */
+  font-feature-settings: "kern", "liga", "onum";
 }
 
 body {
@@ -313,13 +285,17 @@ p.spacetime {
   text-indent: 0;
 }
 
-small {
-  font-size: 1.025rem;
-  font-feature-settings: "kern", "liga", "ss11", "smcp";
-  font-variant: small-caps;
-  font-variant-caps: small-caps;
-  hyphens: none;
+.vers {
   text-transform: lowercase;
+  -moz-font-feature-settings: 'smcp';
+  -webkit-font-feature-settings: 'smcp';
+  -ms-font-feature-settings: 'smcp';
+  font-feature-settings: 'smcp';
+}
+
+.francesa {
+  text-indent: calc(var(--base-unit-half) * -1);
+  padding-left: var(--base-unit-half);
 }
 
 img {
