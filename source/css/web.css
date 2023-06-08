@@ -25,8 +25,8 @@
   --line-height: 1.4rem;
   --print-line-height: 1.4rem;
   --vertical-padding: var(--base-unit);
-  --column-height: calc(100vh - calc(var(--vertical-padding) * 4.0));
-  --column-height: calc(100svh - calc(var(--vertical-padding) * 4.0));
+  --column-height: calc(100vh - calc(var(--vertical-padding)));
+  --column-height: calc(100svh - calc(var(--vertical-padding)));
   --column-gap: var(--base-unit);
   --paper-hue: 60;
   --paper-saturation: 100%;
@@ -84,7 +84,7 @@ body {
   overflow-x: auto;
   overflow-y: hidden;
   margin: 0;
-  padding: var(--vertical-padding) 0 0 0;
+  padding: 0;
   background-color: var(--paper-color);
   font-family: var(--body-text-font-stack);
   font-size: 1rem;
