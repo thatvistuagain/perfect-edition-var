@@ -28,19 +28,36 @@
   --column-height: calc(100vh - calc(var(--vertical-padding) * 4.0));
   --column-height: calc(100svh - calc(var(--vertical-padding) * 4.0));
   --column-gap: var(--base-unit);
-  --paper-hue: 100;
-  --paper-saturation: 50%;
+  --paper-hue: 60;
+  --paper-saturation: 100%;
   --paper-lightness: 99%;
   --paper-color: hsla( var(--paper-hue), var(--paper-saturation), var(--paper-lightness), 1.0 );
   --shade-color-destination: hsla(var(--paper-hue), var(--paper-saturation), var(--paper-lightness), 0.0);
   --shade-color-origin: hsla(var(--paper-hue), var(--paper-saturation), var(--paper-lightness), 0.75);
-  --spot-color: hsla(340, 100%, 50%, 1.0);
-  --selection-color: hsla(340, 100%, 75%, 1.0);
-  --text-color: rgb(5, 5, 5);
+  --spot-color: hsl(322, 42%, 42%);
+  --selection-color: rgba(255,212,0,0.14);
+  --text-color: hsl(43, 10%, 20%);
 }
 
 ::-moz-selection { background: var(--selection-color); }
 ::selection { background: var(--selection-color); }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --spot-color: hsl(324, 55%, 72%);
+    --selection-color: rgba(255,212,0,0.14);
+    --text-color: hsl(210, 10%, 98%);
+    --paper-hue: 0;
+    --paper-saturation: 0%;
+    --paper-lightness: 13%;
+    --paper-color: hsla( var(--paper-hue), var(--paper-saturation), var(--paper-lightness), 1.0 );
+    --shade-color-destination: hsla(var(--paper-hue), var(--paper-saturation), var(--paper-lightness), 0.0);
+    --shade-color-origin: hsla(var(--paper-hue), var(--paper-saturation), var(--paper-lightness), 0.75);
+  }
+  img {
+    mix-blend-mode: exclusion!important;
+  }
+}
 
 /* <button> has some gross defaults */
 button {
@@ -55,7 +72,11 @@ html {
   scroll-behavior: smooth;
   overflow: hidden; /* This is the key, always */
   font-size: var(--font-size);
-  font-feature-settings: "kern", "liga", "onum";
+  font-feature-settings: 'liga', 'clig', 'onum', 'palt' 1;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 body {
@@ -260,6 +281,8 @@ h2 {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: calc( var(--line-height) * 2.0 );
+  text-align: center;
+  text-wrap: balance;
 }
 
 a, a:link, a:visited {
@@ -318,8 +341,12 @@ hr {
   border-bottom: 1px solid var(--spot-color);
 }
 
-p.last-page {
+p.last-page, p.return-page {
   break-before: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
 p.last-page::after {
@@ -368,7 +395,6 @@ div.book div.title h1 {
   font-family: var(--heading-text-font-stack);
   font-size: 2rem;
   font-weight: 400;
-  font-feature-settings: "kern", "liga", "smcp", "ss11";
   font-variant: small-caps;
   font-variant-caps: small-caps;
   text-transform: lowercase;
@@ -393,7 +419,6 @@ div.book h1 {
   font-family: var(--heading-text-font-stack);
   font-size: 2rem;
   font-weight: 400;
-  font-feature-settings: "kern", "liga", "smcp", "ss11";
   font-variant: small-caps;
   font-variant-caps: small-caps;
   text-align: center;
@@ -450,7 +475,6 @@ div.print-cover div.title h1 {
   font-family: var(--heading-text-font-stack);
   font-size: 2rem;
   font-weight: 400;
-  font-feature-settings: "kern", "liga", "smcp", "ss11";
   font-variant:small-caps;
   font-variant-caps: small-caps;
   text-transform: lowercase;

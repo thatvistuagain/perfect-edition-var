@@ -14,9 +14,7 @@ Es justo dentro de ese círculo, taller literario democrático —bajo la égida
 
 Con menor renombre, Prieto informa que “a la sesión siguiente de la Academia [la segunda] ya figuraron en el cuarto de Lacunza, Eulalio M. Ortega, Joaquín Navarro y Antonio Larrañaga” (Prieto 167). Como ha señalado Antonio Campos, estos personajes habían formado parte, junto con Prieto un tiempo atrás, de las tertulias que se organizaban en casa de Francisco Ortega (1793-1849), padre de Eulalio y poeta con recursos que buscaba difundir las enseñanzas literarias y el oficio del impresor entre la juventud (Campos 573).
 
-Pero fue con la llegada de Ignacio Rodríguez Galván (1816-1842) cuando la Academia de Letrán tuvo un escaparate mediante el cual difundir sus discusiones y visión de la literatura: los números de la revista _El Año Nuevo_. (El anuario fue visto, no obstante, como una publicación no oficial. Prieto habla de sus números como mero “recuerdo de los trabajos
-literarios que he recorrido”, y atribuye a Galván su difusión más que a
-los lateranistas [217-218].) Se trató de un anuario cuya conceptualización vaciló mucho a lo largo de los cuatros años que duró (1837-1840); se habló de “libro”, “periódico anual” o, más vagamente, “colección” y “obra” (Campos 583). Lo que sí está claro es el corte de la publicación: “el afán por crear una idea de lo mexicano, señalar las virtudes, los valores y los problemas que compartían los habitantes del país recién independizado” (Nájera Ramírez 51). Basta revisar el índice del primer número para confirmarlo: títulos como “Moctezuma”, “Netzula”, “El lago de Tezcoco” o “Carácter de Colón”.
+Pero fue con la llegada de Ignacio Rodríguez Galván (1816-1842) cuando la Academia de Letrán tuvo un escaparate mediante el cual difundir sus discusiones y visión de la literatura: los números de la revista _El Año Nuevo_. Se trató de un anuario cuya conceptualización vaciló mucho a lo largo de los cuatros años que duró (1837-1840); se habló de “libro”, “periódico anual” o, más vagamente, “colección” y “obra” (Campos 583). Lo que sí está claro es el corte de la publicación: “el afán por crear una idea de lo mexicano, señalar las virtudes, los valores y los problemas que compartían los habitantes del país recién independizado” (Nájera Ramírez 51). Basta revisar el índice del primer número para confirmarlo: títulos como “Moctezuma”, “Netzula”, “El lago de Tezcoco” o “Carácter de Colón”. (El anuario fue visto, no obstante, como una publicación no oficial. Prieto habla de sus números como mero “recuerdo de los trabajos literarios que he recorrido”, y atribuye a Galván su difusión más que a los lateranistas [217-218].)
 
 En ese primer número también hace su aparición Eulalio María Ortega con “La batalla de Otumba”, relato que cierra el número de forma significativa, pues la crítica ha señalado su marcado antiespañolismo, mucho más radical que el de otros textos ahí compilados, como “Netzula” de J. M. Lacunza. Esta distinta visión estaría vinculada a la diferencia generacional de los distintos colaborares del grupo (Galván Díaz 11).
 
@@ -34,13 +32,13 @@ Por lo anterior, y por el episodio histórico que aborda, “La batalla de Otumb
 
 <p class="francesa"><span class="vers">Pacheco</span>, José Emilio, <em>A 150 años de la Academia de Letrán</em>, El Colegio Nacional, México, 2013.</p>
 
-<p class="francesa"><span class="vers">Prieto</span>, Guillermo, <em>Memorias de mis tiempos</em>, Librería de la viuda de Charles Bouret_, México-París, 1906.</p>
+<p class="francesa"><span class="vers">Prieto</span>, Guillermo, <em>Memorias de mis tiempos</em>, Librería de la viuda de Charles Bouret, México-París, 1906.</p>
 
 <p class="francesa"><span class="vers">Tola de Habich</span>, Fernando (ed. y pról.), <em>El Año Nuevo de 1837</em> (t. 1), <span class="vers">UNAM</span>, México, 1996.</p>
 
 ## Sobre esta edición
 
-Para los fines de la presente edición, se ha seguido de cerca el trabajo, en cuatro volúmenes, que realizó Fernando Tola de Habich de los números de _El Año Nuevo_ (edición facsimilar). Como se mencionó, “La batalla de Otumba” aparece en el primer número: _El Año Nuevo de 1837_, Mariano Arévalo [impresor], Librería de Galván, México, 1837, pp. 180-188; recuperado en _El Año Nuevo de 1837_ (t. 1), <span class="vers">UNAM</span>, México, 1996. No se tiene noticia de otros testimonios, por lo que aquí se toma el texto de la princeps tal y como lo reproduce Tola de Habich.
+Para los fines de la presente edición, se ha seguido de cerca el trabajo, en cuatro volúmenes, que realizó Fernando Tola de Habich de los números de _El Año Nuevo_ (edición facsimilar). Como se mencionó, “La batalla de Otumba” aparece en el primer número: _El Año Nuevo de 1837_, Mariano Arévalo [impresor], Librería de Galván, México, 1837, pp. 180-188; recuperado en _El Año Nuevo de 1837_ (t. 1), <span class="vers">UNAM</span>, México, 1996. No se tiene noticia de otros testimonios, por lo que aquí se toma el texto de la _princeps_ tal y como lo reproduce Tola de Habich.
 
 Se ha modernizado la puntuación y la ortografía según se consideró conveniente. Sobre las grafías antiguas, se han efectuado los siguientes cambios generales: uso de {j} allí donde se lee {g} (_gefe_ > _jefe_), uso de {x} por {j} en _Méjico_ y sus derivados, así como el uso de {y} como conjunción (< i). En cuanto a la disposición de los diálogos, se ha optado también por las convenciones modernas, separando las intervenciones en líneas independientes.
 
@@ -90,3 +88,5 @@ Viene la noche y los vencedores se retiran. No se oye más que algún quejido de
 —Te engañas, Guatimotzin; día de felicidad: Huitzilopochtli me ha ofrecido que yo, tú y Xóchitl atormentaremos en la otra vida a los españoles. Hasta la eternidad.
 
 <p class="spacetime">E. M. O.,<br>noviembre 30 de 1836</p>
+
+<p class="return-page"><a href="/biblioteca/">Volver a la <span class="vers">biblioteca</span></a></p>
