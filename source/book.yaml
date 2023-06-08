@@ -11,7 +11,7 @@ description: "Esta es una edición en línea de La batalla de Otumba, cuento de 
 author: "Eulalio María Ortega"
 slug: la-batalla-de-otumba
 pub_date: 2023-06-07
-home_url: "https://www.elcuaadernosinhojas.com/biblioteca/visor/la-batalla-de-otumba"
+home_url: "https://www.elcuadernosinhojas.com/biblioteca/visor/la-batalla-de-otumba"
 cover_image: "img/portada.jpg"
 markdown_source: la-batalla-de-otumba.md
 spot_color: "rgb( 192, 54, 44)"

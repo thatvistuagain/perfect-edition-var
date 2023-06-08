@@ -22,7 +22,7 @@ En ese primer número también hace su aparición Eulalio María Ortega con “L
 
 Ortega, sin embargo, no volvió a publicar en _El Año Nuevo_ sino hasta su número final, en 1840 (año también de la disolución del núcleo original) (Pacheco 22). Allí publicó dos traducciones: “Bertinazzi y Clemente <span class="vers">XIV</span>” y “Sobre los destinos de la poesía por Alfonso Lamartine”; además de un poema original titulado “A…”. 
 
-Por lo anterior, y por el episodio histórico que aborda, “La batalla de Otumba” reclama nuestra atención. Se trata de una reelaboración de los sucesos acaecidos tras la “Noche triste”: el enfrentamiento entre mexicas y españoles en la ahora conocida como “Batalla de Otumba” (1520), actual Estado de México. La narración tiene como protagonista a Cihuacatzin, guerrero mexica que debate en su interior cuál será el destino final de su nación, de la que Huitzilopochtli, dios de la guerra, ha advertido su derrota frente a los españoles, “dueños del rayo”. Es una elección notable, pues dicho enfrentamiento representó el comienzo del fin para el Imperio mexica, por lo que las proclamas antiespañolistas aparecen como un reclamo fundamentado en un proyecto literario consciente (a este respecto, véanse los citados estudios de Nájera y Galván.).
+Por lo anterior, y por el episodio histórico que aborda, “La batalla de Otumba” reclama nuestra atención. Se trata de una reelaboración de los sucesos acaecidos tras la “Noche triste”: el enfrentamiento entre mexicas y españoles en la ahora conocida como “Batalla de Otumba” (1520), actual Estado de México. La narración tiene como protagonista a Cihuacatzin, guerrero mexica que debate en su interior cuál será el destino final de su nación, de la que Huitzilopochtli, dios de la guerra, ha advertido su derrota frente a los españoles, “dueños del rayo”. Es una elección notable, pues dicho enfrentamiento representó el comienzo del fin para el Imperio mexica, por lo que las proclamas antiespañolistas aparecen como un reclamo fundamentado en un proyecto literario consciente (a este respecto, véanse los citados estudios de Nájera y Galván).
 
 ## Bibliografía
 
@@ -43,8 +43,6 @@ Por lo anterior, y por el episodio histórico que aborda, “La batalla de Otumb
 Para los fines de la presente edición, se ha seguido de cerca el trabajo, en cuatro volúmenes, que realizó Fernando Tola de Habich de los números de _El Año Nuevo_ (edición facsimilar). Como se mencionó, “La batalla de Otumba” aparece en el primer número: _El Año Nuevo de 1837_, Mariano Arévalo [impresor], Librería de Galván, México, 1837, pp. 180-188; recuperado en _El Año Nuevo de 1837_ (t. 1), <span class="vers">UNAM</span>, México, 1996. No se tiene noticia de otros testimonios, por lo que aquí se toma el texto de la princeps tal y como lo reproduce Tola de Habich.
 
 Se ha modernizado la puntuación y la ortografía según se consideró conveniente. Sobre las grafías antiguas, se han efectuado los siguientes cambios generales: uso de {j} allí donde se lee {g} (_gefe_ > _jefe_), uso de {x} por {j} en _Méjico_ y sus derivados, así como el uso de {y} como conjunción (< i). En cuanto a la disposición de los diálogos, se ha optado también por las convenciones modernas, separando las intervenciones en líneas independientes.
-
-# La batalla de Otumba
 
 ## I
 
